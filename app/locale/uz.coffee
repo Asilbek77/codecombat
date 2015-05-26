@@ -1,69 +1,69 @@
 module.exports = nativeDescription: "O'zbekcha", englishDescription: "Uzbek", translation:
 #  home:
-#    slogan: "Learn to Code by Playing a Game"
-#    no_ie: "CodeCombat does not run in Internet Explorer 8 or older. Sorry!" # Warning that only shows up in IE8 and older
-#    no_mobile: "CodeCombat wasn't designed for mobile devices and may not work!" # Warning that shows up on mobile devices
-#    play: "Play" # The big play button that opens up the campaign view.
-#    old_browser: "Uh oh, your browser is too old to run CodeCombat. Sorry!" # Warning that shows up on really old Firefox/Chrome/Safari
-#    old_browser_suffix: "You can try anyway, but it probably won't work."
-#    ipad_browser: "Bad news: CodeCombat doesn't run on iPad in the browser. Good news: our native iPad app is awaiting Apple approval."
-#    campaign: "Campaign"
-#    for_beginners: "For Beginners"
-#    multiplayer: "Multiplayer" # Not currently shown on home page
-#    for_developers: "For Developers" # Not currently shown on home page.
-#    or_ipad: "Or download for iPad"
+#    slogan: "O'yin o'ynab programma qilishni o'rganing"
+#    no_ie: "CodeCombat IE8 va bowqa eski versiyalarda ishlamaydi.Uzir!" # Warning that only shows up in IE8 and older
+#    no_mobile: "CodeCombat mobil qurilmalarda islawi uchin mo'ljallanmagan! Mingbora uzir!" # Warning that shows up on mobile devices
+#    play: "O'ynash" # The big play button that opens up the campaign view.
+#    old_browser: "Vay, sizning brauzeringiz judaham eski Codecombatni ochish uchin. Uzir!" # Warning that shows up on really old Firefox/Chrome/Safari
+#    old_browser_suffix: "Siz yana urunishingiz mumkin, ammo, ehtimol bu ishlamasligi mumkin!"
+#    ipad_browser: "Yomon Xabarlar: CodeCombat Ipadning brauzerida ishlamaydi. Yaxshi yangilik: Bizning Ipadga tug'ma xabarimiz Aplle dan rozilik kutmoqda!"
+#    campaign: "Kampaniya"
+#    for_beginners: "Boshlanuvchilarga"
+#    multiplayer: "Multipleer" # Not currently shown on home page
+#    for_developers: "Ishlab Chiqqanlarga" # Not currently shown on home page.
+#    or_ipad: "Yoki Ipadga yuklab Oling!"
 
 #  nav:
-#    play: "Levels" # The top nav bar entry where players choose which levels to play
-#    community: "Community"
-#    editor: "Editor"
+#    play: "Darajalar" # The top nav bar entry where players choose which levels to play
+#    community: "Jamoa"
+#    editor: "Muharrir"
 #    blog: "Blog"
 #    forum: "Forum"
-#    account: "Account"
-#    profile: "Profile"
-#    stats: "Stats"
-#    code: "Code"
+#    account: "Akkaunt"
+#    profile: "Profil"
+#    stats: "Statiska"
+#    code: "Kod"
 #    admin: "Admin" # Only shows up when you are an admin
-#    home: "Home"
-#    contribute: "Contribute"
-#    legal: "Legal"
-#    about: "About"
-#    contact: "Contact"
-#    twitter_follow: "Follow"
-#    teachers: "Teachers"
+#    home: "Uyga"
+#    contribute: "Hamkorlik"
+#    legal: "Yuridik ma'lumot"
+#    about: "Biz Haqimizda"
+#    contact: "Bog'lanish"
+#    twitter_follow: "Obuna bo'lish"
+#    teachers: "O'qituvchilar"
 
 #  modal:
-#    close: "Close"
-#    okay: "Okay"
+#    close: "Yopish"
+#    okay: "OK"
 
 #  not_found:
-#    page_not_found: "Page not found"
+#    page_not_found: "Stranitca topilmadi"
 
   diplomat_suggestion:
-#    title: "Help translate CodeCombat!" # This shows up when a player switches to a non-English language using the language selector.
-#    sub_heading: "We need your language skills."
-    pitch_body: "We develop CodeCombat in English, but we already have players all over the world. Many of them want to play in Uzbek but don't speak English, so if you can speak both, please consider signing up to be a Diplomat and help translate both the CodeCombat website and all the levels into Uzbek."
-    missing_translations: "Until we can translate everything into Uzbek, you'll see English when Uzbek isn't available."
-#    learn_more: "Learn more about being a Diplomat"
-#    subscribe_as_diplomat: "Subscribe as a Diplomat"
+#    title: "CodeCombatni tarjima qilishga yordam bering!" # This shows up when a player switches to a non-English language using the language selector.
+#    sub_heading: "Biz sizning til ko'nikmalaringiz kerak!."
+    pitch_body: "Biz CodeCombatni ingiliz tilida tayorlaymiz, ammo bizda endi butun dunyodan odamlar bor.Ularning ko'pinchasi o'zbek tilida o'ynashni xoxlashadi,ammo ular ingiliz tilini bilishmaydi, shuning uchin agar siz shu ikta tilni bilsangiz Diplomat sifatida ro'yxatdan o'ting va CodeCombatni tarjima qilishga yordam bering!"
+    missing_translations: "Biz hali o'zbek tiliga tarjima qilmaginimizga qadar , siz tarjima qilinmagan joylarini ingiliz tilida ko'rasiz!."
+#    learn_more: "Qanday Diplomat bo'lish to'g'risidagi ma'lumotlar"
+#    subscribe_as_diplomat: "Diplomat Bo'lib ro'yxatdan o'tish"
 
 #  play:
-#    play_as: "Play As" # Ladder page
-#    spectate: "Spectate" # Ladder page
-#    players: "players" # Hover over a level on /play
-#    hours_played: "hours played" # Hover over a level on /play
-#    items: "Items" # Tooltip on item shop button from /play
-#    unlock: "Unlock" # For purchasing items and heroes
-#    confirm: "Confirm"
-#    owned: "Owned" # For items you own
-#    locked: "Locked"
-#    purchasable: "Purchasable" # For a hero you unlocked but haven't purchased
-#    available: "Available"
-#    skills_granted: "Skills Granted" # Property documentation details
-#    heroes: "Heroes" # Tooltip on hero shop button from /play
-#    achievements: "Achievements" # Tooltip on achievement list button from /play
-#    account: "Account" # Tooltip on account button from /play
-#    settings: "Settings" # Tooltip on settings button from /play
+#    play_as: "Uchun o'ynash" # Ladder page
+#    spectate: "Tomosha qilmoq" # Ladder page
+#    players: "o'yinchilar" # Hover over a level on /play
+#    hours_played: "Soat o'ynaldi" # Hover over a level on /play
+#    items: "Narsalar" # Tooltip on item shop button from /play
+#    unlock: "Ochish" # For purchasing items and heroes
+#    confirm: "Tasdiqlash"
+#    owned: "Allaqachon mavjud" # For items you own
+#    locked: "Yopiq"
+#    purchasable: "Sotib olsa bo'ladi" # For a hero you unlocked but haven't purchased
+#    available: "Mumkin"
+#    skills_granted: "Ko'nikma qabul qilindi" # Property documentation details
+#    heroes: "Qahramonlar" # Tooltip on hero shop button from /play
+#    achievements: "Muvaffaqiyatlar" # Tooltip on achievement list button from /play
+#    account: "Akkaunt" # Tooltip on account button from /play
+#    settings: "" # Tooltip on settings button from /play
 #    poll: "Poll" # Tooltip on poll button from /play
 #    next: "Next" # Go from choose hero to choose inventory before playing a level
 #    change_hero: "Change Hero" # Go back from choose inventory to choose hero
